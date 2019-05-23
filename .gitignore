@@ -5,3 +5,7 @@
 /code/semmed/edge-by-predicate
 /code/semmed/edge-by-subject
 /code/a.out
+
+# Jetbrains IDE meta
+.idea/
+
